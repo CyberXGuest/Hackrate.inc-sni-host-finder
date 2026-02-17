@@ -39,6 +39,7 @@ pkg install git
 
 # Clone repository
 
+https://github.com/CyberXGuest/Hackrate.inc-sni-host-finder.git
 
 # Run installer
 cd sni-host-hunter
