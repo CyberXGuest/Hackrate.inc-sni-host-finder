@@ -45,4 +45,15 @@ git clone https://github.com/CyberXGuest/Hackrate.inc-sni-host-finder.git
 cd Hackrate.inc-sni-host-finder
 chmod +x install.sh
 ./install.sh
-You can use it to find sni host 
+You can use it to find sni host
+
+
+nano Hackrate.sh
+# Paste the script content
+# Press Ctrl+X, then Y, then Enter to save
+
+chmod +x Hackrate.sh
+./Hackrate.sh
+
+
+
