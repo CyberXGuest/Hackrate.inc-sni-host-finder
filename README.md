@@ -39,10 +39,10 @@ pkg install git
 
 # Clone repository
 
-https://github.com/CyberXGuest/Hackrate.inc-sni-host-finder.git
+git clone https://github.com/CyberXGuest/Hackrate.inc-sni-host-finder.git
 
 # Run installer
-cd sni-host-hunter
+cd Hackrate.inc-sni-host-finder
 chmod +x install.sh
 ./install.sh
 You can use it to find sni host 
